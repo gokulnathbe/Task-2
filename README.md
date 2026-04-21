@@ -1,1 +1,14 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: GOKULNATH L
+
+INTERN ID: CTIS7420
+
+DOMAIN: EMBEDDED SYSTEMS
+
+DURATION:12 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
+
+OUTPUT:<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/a8d52581-0f00-48b3-b2ae-d3a0e0134c8b" />
 # Task-2
